@@ -2,8 +2,8 @@
 
 A comprehensive demonstration of advanced browser storage techniques and DevTools integration using real satellite imagery. This application showcases how to handle large datasets (up to 25MB per image) in the browser using IndexedDB, with professional satellite image processing and real-time performance monitoring.
 
-![Satellite Database Demo](images/1.png) 
-![Browser Support](images/2.png) 
+![Satellite Database Demo](images/2.png) 
+![Browser Support](images/1.png) 
 ![Storage](images/3.png)
 ![Part](images/4.png)
 
