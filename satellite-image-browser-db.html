@@ -512,6 +512,7 @@
                 const img = new Image();
                 img.crossOrigin = 'anonymous';
                 
+                // Return a promise to handle image loading and processing
                 return new Promise((resolve, reject) => {
                     img.onload = () => {
                         try {
@@ -578,6 +579,7 @@
             ctx.strokeStyle = '#00ff00';
             ctx.lineWidth = 1;
             
+            // Draw horizontal scan lines
             for (let i = 0; i < canvas.height; i += 4) {
                 ctx.beginPath();
                 ctx.moveTo(0, i);
