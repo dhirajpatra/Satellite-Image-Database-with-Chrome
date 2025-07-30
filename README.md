@@ -533,6 +533,6 @@ MIT License - Feel free to use this for educational and commercial purposes.
 
 ---
 
-**Built for the Chrome for Developers community** - showcasing cutting-edge browser capabilities and professional debugging techniques. Code help by @Antropic Claude.
+**Built for the Chrome for Developers community** - showcasing cutting-edge browser capabilities and professional debugging techniques. Code help by @Anthropic Claude.
 
 *Perfect for demonstrating modern web storage, performance optimization, and DevTools integration!* 🚀
