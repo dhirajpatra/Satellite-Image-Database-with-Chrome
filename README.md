@@ -6,6 +6,8 @@ A comprehensive demonstration of advanced browser storage techniques and DevTool
 ![Browser Support](images/1.png) 
 ![Storage](images/3.png)
 ![Part](images/4.png)
+![DevTools with IndexDB](images/5.png)
+![DevTools](images/6.png)
 
 ## 📋 Table of Contents
 
